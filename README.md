@@ -17,7 +17,7 @@ Desafio do Nível 2 sobre Fundamentos do Node.js aplicado no bootcamp GoStack da
 - [Objetivos](#-objetivos)
 - [Testes de Validação](#-testes-de-validação)
 - [Para clonar e executar o projeto](#-para-clonar-e-executar-o-projeto)
-- [Para executar o teste](#-para-executar-o-teste)
+- [Para executar os testes](#-para-executar-os-testes)
 
 ---
 
@@ -125,7 +125,7 @@ Para que esse teste passe, sua aplicação não deve permitir que uma transaçã
 
 ---
 
-## 🛠 Para executar o teste
+## 🛠 Para executar os testes
 
 ```bash
   $ yarn test
